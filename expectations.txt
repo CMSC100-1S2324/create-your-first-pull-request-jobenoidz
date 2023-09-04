@@ -1,0 +1,11 @@
+@Author: John Benedict L. Aguirre
+
+Expectations:
+- After learning how to use GitHub properly, I can already tell that the road ahead will not be smooth.
+I can already see the possible mistakes of errors in syntax and having to double-double check if you're in
+the right repository as well as if you're pushing to the right branch. Nevertheless, I can see myself enjoying
+this experience as it will definitely help me get used to working with others especially with the handy feature
+of being able to work with others through GitHub.
+
+:)
+
