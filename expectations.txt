@@ -9,3 +9,6 @@ of being able to work with others through GitHub.
 
 :)
 
+Comments:
+- That's right. You have to be very careful in using Git. I hope you enjoy using Git throughout your journey.
+
